@@ -1,0 +1,96 @@
+2019-03-06 17:42:55,429-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/25851ac2-28be-42c7-8309-2f4e3936bd16
+2019-03-06 17:42:55,429-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/25851ac2-28be-42c7-8309-2f4e3936bd16
+2019-03-06 17:42:55,429-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/25851ac2-28be-42c7-8309-2f4e3936bd16
+2019-03-06 17:43:08,806-root-INFO-输入内容
+2019-03-06 17:43:08,806-root-INFO-输入内容
+2019-03-06 17:43:08,806-root-INFO-输入内容
+2019-03-06 17:43:14,009-root-INFO-输入内容
+2019-03-06 17:43:14,009-root-INFO-输入内容
+2019-03-06 17:43:14,009-root-INFO-输入内容
+2019-03-06 17:43:19,235-root-INFO-输入内容
+2019-03-06 17:43:19,235-root-INFO-输入内容
+2019-03-06 17:43:19,235-root-INFO-输入内容
+2019-03-06 17:43:32,126-root-INFO-输入内容
+2019-03-06 17:43:32,126-root-INFO-输入内容
+2019-03-06 17:43:32,126-root-INFO-输入内容
+2019-03-06 17:43:37,304-root-INFO-输入内容
+2019-03-06 17:43:37,304-root-INFO-输入内容
+2019-03-06 17:43:37,304-root-INFO-输入内容
+2019-03-06 17:43:42,448-root-INFO-输入内容
+2019-03-06 17:43:42,448-root-INFO-输入内容
+2019-03-06 17:43:42,448-root-INFO-输入内容
+2019-03-06 17:43:43,290-root-INFO-现在关闭浏览器
+2019-03-06 17:43:43,290-root-INFO-现在关闭浏览器
+2019-03-06 17:43:43,290-root-INFO-现在关闭浏览器
+2019-03-06 17:43:52,729-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/096def93-06d7-43b1-835e-33d8298879b9
+2019-03-06 17:43:52,729-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/096def93-06d7-43b1-835e-33d8298879b9
+2019-03-06 17:43:52,729-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/096def93-06d7-43b1-835e-33d8298879b9
+2019-03-06 17:44:07,249-root-INFO-输入内容
+2019-03-06 17:44:07,249-root-INFO-输入内容
+2019-03-06 17:44:07,249-root-INFO-输入内容
+2019-03-06 17:44:12,443-root-INFO-输入内容
+2019-03-06 17:44:12,443-root-INFO-输入内容
+2019-03-06 17:44:12,443-root-INFO-输入内容
+2019-03-06 17:44:30,417-root-INFO-输入内容
+2019-03-06 17:44:30,417-root-INFO-输入内容
+2019-03-06 17:44:30,417-root-INFO-输入内容
+2019-03-06 17:44:35,623-root-INFO-输入内容
+2019-03-06 17:44:35,623-root-INFO-输入内容
+2019-03-06 17:44:35,623-root-INFO-输入内容
+2019-03-06 17:44:38,405-root-INFO-现在关闭浏览器
+2019-03-06 17:44:38,405-root-INFO-现在关闭浏览器
+2019-03-06 17:44:38,405-root-INFO-现在关闭浏览器
+2019-03-06 17:44:48,050-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/9f5e936e-a8cd-4fd1-b6d5-ddce7afd9b8f
+2019-03-06 17:44:48,050-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/9f5e936e-a8cd-4fd1-b6d5-ddce7afd9b8f
+2019-03-06 17:44:48,050-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/9f5e936e-a8cd-4fd1-b6d5-ddce7afd9b8f
+2019-03-06 17:44:53,412-root-ERROR-<pageobjects.bwl_page.IndexPage object at 0x000002614B6F2860>未找到页面('id', 'com.pdswp.su.smartcalendar:id/title')元素
+2019-03-06 17:44:53,412-root-ERROR-<pageobjects.bwl_page.IndexPage object at 0x000002614B6F2860>未找到页面('id', 'com.pdswp.su.smartcalendar:id/title')元素
+2019-03-06 17:44:53,412-root-ERROR-<pageobjects.bwl_page.IndexPage object at 0x000002614B6F2860>未找到页面('id', 'com.pdswp.su.smartcalendar:id/title')元素
+2019-03-06 17:44:53,413-root-INFO-现在关闭浏览器
+2019-03-06 17:44:53,413-root-INFO-现在关闭浏览器
+2019-03-06 17:44:53,413-root-INFO-现在关闭浏览器
+2019-03-06 17:45:03,340-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/25b03288-3698-4e21-bc94-1434aba4dd90
+2019-03-06 17:45:03,340-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/25b03288-3698-4e21-bc94-1434aba4dd90
+2019-03-06 17:45:03,340-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/25b03288-3698-4e21-bc94-1434aba4dd90
+2019-03-06 17:45:12,691-root-INFO-输入内容
+2019-03-06 17:45:12,691-root-INFO-输入内容
+2019-03-06 17:45:12,691-root-INFO-输入内容
+2019-03-06 17:45:22,077-root-INFO-输入内容
+2019-03-06 17:45:22,077-root-INFO-输入内容
+2019-03-06 17:45:22,077-root-INFO-输入内容
+2019-03-06 17:45:22,903-root-INFO-现在关闭浏览器
+2019-03-06 17:45:22,903-root-INFO-现在关闭浏览器
+2019-03-06 17:45:22,903-root-INFO-现在关闭浏览器
+2019-03-06 17:45:32,591-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/d5638c5d-6293-45a3-892a-8e1cc442ff14
+2019-03-06 17:45:32,591-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/d5638c5d-6293-45a3-892a-8e1cc442ff14
+2019-03-06 17:45:32,591-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/d5638c5d-6293-45a3-892a-8e1cc442ff14
+2019-03-06 17:45:41,571-root-INFO-输入内容
+2019-03-06 17:45:41,571-root-INFO-输入内容
+2019-03-06 17:45:41,571-root-INFO-输入内容
+2019-03-06 17:45:43,292-root-INFO-现在关闭浏览器
+2019-03-06 17:45:43,292-root-INFO-现在关闭浏览器
+2019-03-06 17:45:43,292-root-INFO-现在关闭浏览器
+2019-03-06 17:45:55,107-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/cf7be7ab-e798-4227-a90f-86657fa5016c
+2019-03-06 17:45:55,107-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/cf7be7ab-e798-4227-a90f-86657fa5016c
+2019-03-06 17:45:55,107-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/cf7be7ab-e798-4227-a90f-86657fa5016c
+2019-03-06 17:46:01,178-root-INFO-Had take screenshot and save to folder：/screenshots
+2019-03-06 17:46:01,178-root-INFO-Had take screenshot and save to folder：/screenshots
+2019-03-06 17:46:01,178-root-INFO-Had take screenshot and save to folder：/screenshots
+2019-03-06 17:46:01,179-root-INFO-截图成功。
+2019-03-06 17:46:01,179-root-INFO-截图成功。
+2019-03-06 17:46:01,179-root-INFO-截图成功。
+2019-03-06 17:46:01,837-root-INFO-现在关闭浏览器
+2019-03-06 17:46:01,837-root-INFO-现在关闭浏览器
+2019-03-06 17:46:01,837-root-INFO-现在关闭浏览器
+2019-03-06 17:46:11,636-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/3739c326-dbdd-4a92-b06a-f3c78f9d2b1a
+2019-03-06 17:46:11,636-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/3739c326-dbdd-4a92-b06a-f3c78f9d2b1a
+2019-03-06 17:46:11,636-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/3739c326-dbdd-4a92-b06a-f3c78f9d2b1a
+2019-03-06 17:46:22,295-root-INFO-现在关闭浏览器
+2019-03-06 17:46:22,295-root-INFO-现在关闭浏览器
+2019-03-06 17:46:22,295-root-INFO-现在关闭浏览器
+2019-03-06 17:46:32,119-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/e2c84485-929e-49f1-98a4-2f8e8964cf68
+2019-03-06 17:46:32,119-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/e2c84485-929e-49f1-98a4-2f8e8964cf68
+2019-03-06 17:46:32,119-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/e2c84485-929e-49f1-98a4-2f8e8964cf68
+2019-03-06 17:46:42,301-root-INFO-现在关闭浏览器
+2019-03-06 17:46:42,301-root-INFO-现在关闭浏览器
+2019-03-06 17:46:42,301-root-INFO-现在关闭浏览器

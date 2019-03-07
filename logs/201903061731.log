@@ -1,0 +1,6 @@
+2019-03-06 17:31:36,366-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/6aa56bd5-323a-43bb-89b6-7571c0d06d6a
+2019-03-06 17:31:36,366-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/6aa56bd5-323a-43bb-89b6-7571c0d06d6a
+2019-03-06 17:31:43,213-root-ERROR-<pageobjects.bwl_page.IndexPage object at 0x0000020E7314C668>未找到页面('name', '归档')元素
+2019-03-06 17:31:43,213-root-ERROR-<pageobjects.bwl_page.IndexPage object at 0x0000020E7314C668>未找到页面('name', '归档')元素
+2019-03-06 17:31:43,213-root-INFO-现在关闭浏览器
+2019-03-06 17:31:43,213-root-INFO-现在关闭浏览器

@@ -1,0 +1,6 @@
+2019-03-06 17:20:41,401-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/9de8cbb4-7124-406a-8476-f318e415fa56
+2019-03-06 17:20:41,401-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/9de8cbb4-7124-406a-8476-f318e415fa56
+2019-03-06 17:20:47,621-root-ERROR-<pageobjects.bwl_page.IndexPage object at 0x000001C2A49DE5C0>未找到页面('id', 'com.pdswp.su.smartcalendar:id/email')元素
+2019-03-06 17:20:47,621-root-ERROR-<pageobjects.bwl_page.IndexPage object at 0x000001C2A49DE5C0>未找到页面('id', 'com.pdswp.su.smartcalendar:id/email')元素
+2019-03-06 17:20:47,621-root-INFO-现在关闭浏览器
+2019-03-06 17:20:47,621-root-INFO-现在关闭浏览器
