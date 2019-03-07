@@ -189,9 +189,9 @@ function showOutput(id, name) {
 
 <div class='heading'>
 <h1>智能备忘录测试报告</h1>
-<p class='attribute'><strong>Start Time:</strong> 2019-03-07 11:16:03</p>
-<p class='attribute'><strong>Duration:</strong> 0:03:23.248747</p>
-<p class='attribute'><strong>Status:</strong> Pass 5 Error 3</p>
+<p class='attribute'><strong>Start Time:</strong> 2019-03-07 11:34:15</p>
+<p class='attribute'><strong>Duration:</strong> 0:04:35.326479</p>
+<p class='attribute'><strong>Status:</strong> Pass 7 Error 1</p>
 
 <p class='description'>用例执行情况</p>
 </div>
@@ -221,145 +221,31 @@ function showOutput(id, name) {
     <td>View</td>
 </tr>
 
-<tr class='errorClass'>
+<tr class='passClass'>
     <td>test_bwl1.test_bwl1</td>
     <td>1</td>
-    <td>0</td>
-    <td>0</td>
     <td>1</td>
+    <td>0</td>
+    <td>0</td>
     <td><a href="javascript:showClassDetail('c1',1)">Detail</a></td>
 </tr>
 
-<tr id='ft1.1' class='none'>
-    <td class='errorCase'><div class='testcase'>test_znbel</div></td>
+<tr id='pt1.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_znbel</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
-        error</a>
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.1')" >
+        pass</a>
 
-    <div id='div_ft1.1' class="popup_window">
+    <div id='div_pt1.1' class="popup_window">
         <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.1').style.display = 'none' " >
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.1').style.display = 'none' " >
            [x]</a>
         </div>
         <pre>
         
-ft1.1: Traceback (most recent call last):
-  File "E:\appuim\testsuies\test_bwl1.py", line 7, in test_znbel
-    h.zhuce("z1xen23p234", "aggrn242x3@qq.com", "agggg123")
-  File "E:\appuim\pageobjects\bwl_page.py", line 58, in zhuce
-    self.click(*self.page_zcyx)
-  File "E:\appuim\pageobjects\base.py", line 41, in click
-    ele.click()
-AttributeError: 'NoneType' object has no attribute 'click'
-Traceback (most recent call last):
-  File "E:\appuim\testsuies\test_bwl1.py", line 7, in test_znbel
-    h.zhuce("z1xen23p234", "aggrn242x3@qq.com", "agggg123")
-  File "E:\appuim\pageobjects\bwl_page.py", line 58, in zhuce
-    self.click(*self.page_zcyx)
-  File "E:\appuim\pageobjects\base.py", line 41, in click
-    ele.click()
-AttributeError: 'NoneType' object has no attribute 'click'
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
-</tr>
-
-<tr class='errorClass'>
-    <td>test_bwl2.test_bwl2</td>
-    <td>1</td>
-    <td>0</td>
-    <td>0</td>
-    <td>1</td>
-    <td><a href="javascript:showClassDetail('c2',1)">Detail</a></td>
-</tr>
-
-<tr id='ft2.1' class='none'>
-    <td class='errorCase'><div class='testcase'>test_znbe2</div></td>
-    <td colspan='5' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft2.1')" >
-        error</a>
-
-    <div id='div_ft2.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_ft2.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-ft2.1: Traceback (most recent call last):
-  File "E:\appuim\testsuies\test_bwl2.py", line 16, in test_znbe2
-    h.login(email, pwd)
-  File "E:\appuim\pageobjects\bwl_page.py", line 71, in login
-    self.sendkeys(email, *self.page_email)
-  File "E:\appuim\pageobjects\base.py", line 37, in sendkeys
-    ele.send_keys(text)
-AttributeError: 'NoneType' object has no attribute 'send_keys'
-Traceback (most recent call last):
-  File "E:\appuim\testsuies\test_bwl2.py", line 16, in test_znbe2
-    h.login(email, pwd)
-  File "E:\appuim\pageobjects\bwl_page.py", line 71, in login
-    self.sendkeys(email, *self.page_email)
-  File "E:\appuim\pageobjects\base.py", line 37, in sendkeys
-    ele.send_keys(text)
-AttributeError: 'NoneType' object has no attribute 'send_keys'
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
-</tr>
-
-<tr class='errorClass'>
-    <td>test_bwl3.test_bwl3</td>
-    <td>1</td>
-    <td>0</td>
-    <td>0</td>
-    <td>1</td>
-    <td><a href="javascript:showClassDetail('c3',1)">Detail</a></td>
-</tr>
-
-<tr id='ft3.1' class='none'>
-    <td class='errorCase'><div class='testcase'>test_znbe3</div></td>
-    <td colspan='5' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft3.1')" >
-        error</a>
-
-    <div id='div_ft3.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_ft3.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-ft3.1: Traceback (most recent call last):
-  File "E:\appuim\testsuies\test_bwl3.py", line 7, in test_znbe3
-    h.login("asdfggggr@qq.com", "asdfgggg")
-  File "E:\appuim\pageobjects\bwl_page.py", line 71, in login
-    self.sendkeys(email, *self.page_email)
-  File "E:\appuim\pageobjects\base.py", line 37, in sendkeys
-    ele.send_keys(text)
-AttributeError: 'NoneType' object has no attribute 'send_keys'
-Traceback (most recent call last):
-  File "E:\appuim\testsuies\test_bwl3.py", line 7, in test_znbe3
-    h.login("asdfggggr@qq.com", "asdfgggg")
-  File "E:\appuim\pageobjects\bwl_page.py", line 71, in login
-    self.sendkeys(email, *self.page_email)
-  File "E:\appuim\pageobjects\base.py", line 37, in sendkeys
-    ele.send_keys(text)
-AttributeError: 'NoneType' object has no attribute 'send_keys'
-
+pt1.1: 
 
         </pre>
     </div>
@@ -369,30 +255,112 @@ AttributeError: 'NoneType' object has no attribute 'send_keys'
 </tr>
 
 <tr class='passClass'>
-    <td>test_bwl4.test_bwl4</td>
+    <td>test_bwl2.test_bwl2</td>
     <td>1</td>
     <td>1</td>
     <td>0</td>
     <td>0</td>
-    <td><a href="javascript:showClassDetail('c4',1)">Detail</a></td>
+    <td><a href="javascript:showClassDetail('c2',1)">Detail</a></td>
 </tr>
 
-<tr id='pt4.1' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_znbe4</div></td>
+<tr id='pt2.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_znbe2</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt4.1')" >
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.1')" >
         pass</a>
 
-    <div id='div_pt4.1' class="popup_window">
+    <div id='div_pt2.1' class="popup_window">
         <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt4.1').style.display = 'none' " >
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.1').style.display = 'none' " >
            [x]</a>
         </div>
         <pre>
         
-pt4.1: 
+pt2.1: 
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr class='passClass'>
+    <td>test_bwl3.test_bwl3</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td><a href="javascript:showClassDetail('c3',1)">Detail</a></td>
+</tr>
+
+<tr id='pt3.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_znbe3</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt3.1')" >
+        pass</a>
+
+    <div id='div_pt3.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt3.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt3.1: 
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr class='errorClass'>
+    <td>test_bwl4.test_bwl4</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td>1</td>
+    <td><a href="javascript:showClassDetail('c4',1)">Detail</a></td>
+</tr>
+
+<tr id='ft4.1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_znbe4</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft4.1')" >
+        error</a>
+
+    <div id='div_ft4.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_ft4.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+ft4.1: Traceback (most recent call last):
+  File "E:\appuim\testsuies\test_bwl4.py", line 8, in test_znbe4
+    h.addbwl2("1234567890qwert")
+  File "E:\appuim\pageobjects\bwl_page.py", line 86, in addbwl2
+    self.click(*self.page_zhuce)
+  File "E:\appuim\pageobjects\base.py", line 41, in click
+    ele.click()
+AttributeError: 'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "E:\appuim\testsuies\test_bwl4.py", line 8, in test_znbe4
+    h.addbwl2("1234567890qwert")
+  File "E:\appuim\pageobjects\bwl_page.py", line 86, in addbwl2
+    self.click(*self.page_zhuce)
+  File "E:\appuim\pageobjects\base.py", line 41, in click
+    ele.click()
+AttributeError: 'NoneType' object has no attribute 'click'
+
 
         </pre>
     </div>
@@ -536,9 +504,9 @@ pt8.1:
 <tr id='total_row'>
     <td>Total</td>
     <td>8</td>
-    <td>5</td>
+    <td>7</td>
     <td>0</td>
-    <td>3</td>
+    <td>1</td>
     <td>&nbsp;</td>
 </tr>
 </table>

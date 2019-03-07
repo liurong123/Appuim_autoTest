@@ -1,0 +1,69 @@
+2019-03-07 11:30:03,835-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/b601ff77-3e24-4ba6-89e4-3d3055769508
+2019-03-07 11:30:03,835-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/b601ff77-3e24-4ba6-89e4-3d3055769508
+2019-03-07 11:30:03,835-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/b601ff77-3e24-4ba6-89e4-3d3055769508
+2019-03-07 11:30:21,566-root-ERROR-<pageobjects.bwl_page.IndexPage object at 0x00000134DAC18E80>未找到页面('id', 'com.pdswp.su.smartcalendar:id/register')元素
+2019-03-07 11:30:21,566-root-ERROR-<pageobjects.bwl_page.IndexPage object at 0x00000134DAC18E80>未找到页面('id', 'com.pdswp.su.smartcalendar:id/register')元素
+2019-03-07 11:30:21,566-root-ERROR-<pageobjects.bwl_page.IndexPage object at 0x00000134DAC18E80>未找到页面('id', 'com.pdswp.su.smartcalendar:id/register')元素
+2019-03-07 11:30:21,590-root-INFO-现在关闭浏览器
+2019-03-07 11:30:21,590-root-INFO-现在关闭浏览器
+2019-03-07 11:30:21,590-root-INFO-现在关闭浏览器
+2019-03-07 11:30:31,957-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/342ffcf5-f8f2-4803-83da-33acbe340741
+2019-03-07 11:30:31,957-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/342ffcf5-f8f2-4803-83da-33acbe340741
+2019-03-07 11:30:31,957-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/342ffcf5-f8f2-4803-83da-33acbe340741
+2019-03-07 11:30:48,680-root-ERROR-<pageobjects.bwl_page.IndexPage object at 0x00000134D9C25D68>未找到页面('id', 'com.pdswp.su.smartcalendar:id/email')元素
+2019-03-07 11:30:48,680-root-ERROR-<pageobjects.bwl_page.IndexPage object at 0x00000134D9C25D68>未找到页面('id', 'com.pdswp.su.smartcalendar:id/email')元素
+2019-03-07 11:30:48,680-root-ERROR-<pageobjects.bwl_page.IndexPage object at 0x00000134D9C25D68>未找到页面('id', 'com.pdswp.su.smartcalendar:id/email')元素
+2019-03-07 11:30:48,682-root-INFO-现在关闭浏览器
+2019-03-07 11:30:48,682-root-INFO-现在关闭浏览器
+2019-03-07 11:30:48,682-root-INFO-现在关闭浏览器
+2019-03-07 11:30:59,269-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/8474535a-836b-49d7-97a4-a32adedf73c3
+2019-03-07 11:30:59,269-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/8474535a-836b-49d7-97a4-a32adedf73c3
+2019-03-07 11:30:59,269-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/8474535a-836b-49d7-97a4-a32adedf73c3
+2019-03-07 11:31:15,546-root-ERROR-<pageobjects.bwl_page.IndexPage object at 0x00000134DAC28828>未找到页面('id', 'com.pdswp.su.smartcalendar:id/email')元素
+2019-03-07 11:31:15,546-root-ERROR-<pageobjects.bwl_page.IndexPage object at 0x00000134DAC28828>未找到页面('id', 'com.pdswp.su.smartcalendar:id/email')元素
+2019-03-07 11:31:15,546-root-ERROR-<pageobjects.bwl_page.IndexPage object at 0x00000134DAC28828>未找到页面('id', 'com.pdswp.su.smartcalendar:id/email')元素
+2019-03-07 11:31:15,548-root-INFO-现在关闭浏览器
+2019-03-07 11:31:15,548-root-INFO-现在关闭浏览器
+2019-03-07 11:31:15,548-root-INFO-现在关闭浏览器
+2019-03-07 11:31:26,253-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/71d6c06b-a766-4d76-9096-1b72e1a8b8e9
+2019-03-07 11:31:26,253-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/71d6c06b-a766-4d76-9096-1b72e1a8b8e9
+2019-03-07 11:31:26,253-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/71d6c06b-a766-4d76-9096-1b72e1a8b8e9
+2019-03-07 11:31:36,447-root-INFO-输入内容
+2019-03-07 11:31:36,447-root-INFO-输入内容
+2019-03-07 11:31:36,447-root-INFO-输入内容
+2019-03-07 11:31:47,964-root-INFO-输入内容
+2019-03-07 11:31:47,964-root-INFO-输入内容
+2019-03-07 11:31:47,964-root-INFO-输入内容
+2019-03-07 11:31:48,879-root-INFO-现在关闭浏览器
+2019-03-07 11:31:48,879-root-INFO-现在关闭浏览器
+2019-03-07 11:31:48,879-root-INFO-现在关闭浏览器
+2019-03-07 11:31:59,456-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/fbe37984-71a5-418c-b001-3adda44fa460
+2019-03-07 11:31:59,456-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/fbe37984-71a5-418c-b001-3adda44fa460
+2019-03-07 11:31:59,456-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/fbe37984-71a5-418c-b001-3adda44fa460
+2019-03-07 11:32:08,915-root-INFO-输入内容
+2019-03-07 11:32:08,915-root-INFO-输入内容
+2019-03-07 11:32:08,915-root-INFO-输入内容
+2019-03-07 11:32:10,182-root-INFO-现在关闭浏览器
+2019-03-07 11:32:10,182-root-INFO-现在关闭浏览器
+2019-03-07 11:32:10,182-root-INFO-现在关闭浏览器
+2019-03-07 11:32:23,031-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/ec25fda1-f2e5-4cd9-9bac-f72ef365de35
+2019-03-07 11:32:23,031-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/ec25fda1-f2e5-4cd9-9bac-f72ef365de35
+2019-03-07 11:32:23,031-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/ec25fda1-f2e5-4cd9-9bac-f72ef365de35
+2019-03-07 11:32:39,301-root-ERROR-<pageobjects.bwl_page.IndexPage object at 0x00000134DABAA6A0>未找到页面('name', '排序')元素
+2019-03-07 11:32:39,301-root-ERROR-<pageobjects.bwl_page.IndexPage object at 0x00000134DABAA6A0>未找到页面('name', '排序')元素
+2019-03-07 11:32:39,301-root-ERROR-<pageobjects.bwl_page.IndexPage object at 0x00000134DABAA6A0>未找到页面('name', '排序')元素
+2019-03-07 11:32:39,305-root-INFO-现在关闭浏览器
+2019-03-07 11:32:39,305-root-INFO-现在关闭浏览器
+2019-03-07 11:32:39,305-root-INFO-现在关闭浏览器
+2019-03-07 11:32:52,514-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/90ab52c8-6b73-4c3e-be78-943134cd0be7
+2019-03-07 11:32:52,514-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/90ab52c8-6b73-4c3e-be78-943134cd0be7
+2019-03-07 11:32:52,514-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/90ab52c8-6b73-4c3e-be78-943134cd0be7
+2019-03-07 11:33:05,750-root-INFO-现在关闭浏览器
+2019-03-07 11:33:05,750-root-INFO-现在关闭浏览器
+2019-03-07 11:33:05,750-root-INFO-现在关闭浏览器
+2019-03-07 11:33:16,723-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/79453d94-5b6b-4725-aaaf-552dd1d17d80
+2019-03-07 11:33:16,723-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/79453d94-5b6b-4725-aaaf-552dd1d17d80
+2019-03-07 11:33:16,723-urllib3.poolmanager-INFO-Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/79453d94-5b6b-4725-aaaf-552dd1d17d80
+2019-03-07 11:33:28,100-root-INFO-现在关闭浏览器
+2019-03-07 11:33:28,100-root-INFO-现在关闭浏览器
+2019-03-07 11:33:28,100-root-INFO-现在关闭浏览器
